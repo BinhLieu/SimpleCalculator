@@ -4,3 +4,9 @@ C:\Users\Lieu-Ultrabook\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCal
 C:\Users\Lieu-Ultrabook\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
 C:\Users\Lieu-Ultrabook\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
 C:\Users\Lieu-Ultrabook\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\binhl\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\binhl\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\binhl\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\binhl\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\binhl\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\binhl\Source\Repos\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

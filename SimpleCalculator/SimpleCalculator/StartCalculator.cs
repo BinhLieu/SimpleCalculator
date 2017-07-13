@@ -20,7 +20,7 @@ namespace SimpleCalculator
 
         public void getInputs()
         {
-            Console.WriteLine("Enter 2 numbers:");
+            Console.WriteLine("Enter 2 numbers to start calculating:");
             num1 = Console.ReadLine();
             num2 = Console.ReadLine();
 
