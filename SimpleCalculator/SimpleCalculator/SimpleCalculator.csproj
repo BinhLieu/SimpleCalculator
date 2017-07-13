@@ -48,6 +48,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StartCalculator.cs" />
+    <Compile Include="StartRepeat.cs" />
     <Compile Include="Subtract.cs" />
     <Compile Include="Validation.cs" />
   </ItemGroup>

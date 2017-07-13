@@ -15,19 +15,20 @@ namespace SimpleCalculator
         private int Choice { get; set; }
 
         private Boolean isValid = true;
-        string num1;
-        string num2;
+
+        private string _num1;
+        private string _num2;
 
         public void getInputs()
         {
             Console.WriteLine("Enter 2 numbers:");
-            num1 = Console.ReadLine();
-            num2 = Console.ReadLine();
+            _num1 = Console.ReadLine();
+            _num2 = Console.ReadLine();
 
-            if (Validation.IsAllDigits(num1) == true && Validation.IsAllDigits(num2) == true)
+            if (Validation.IsAllDigits(_num1) == true && Validation.IsAllDigits(_num2) == true)
             {
-                Num1 = double.Parse(num1);
-                Num2 = double.Parse(num2);
+                Num1 = double.Parse(_num1);
+                Num2 = double.Parse(_num2);
             }
             else
             {
